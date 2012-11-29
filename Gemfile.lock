@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    minuteman-rails (0.0.1)
+    minuteman-rails (0.1.0)
       minuteman (~> 1.0.2)
       rails (~> 3.0)
 

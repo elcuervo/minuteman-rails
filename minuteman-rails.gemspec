@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name              = "minuteman-rails"
-  s.version           = "0.0.1"
+  s.version           = "0.1.0"
   s.summary           = "Bit Analytics for Rails"
   s.description       = "Use Minuteman in your Rails app"
   s.authors           = ["elcuervo"]
