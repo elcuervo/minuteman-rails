@@ -1,4 +1,5 @@
 require "rails"
+require "minuteman/rails/helper"
 
 class Minuteman
   class Rails
