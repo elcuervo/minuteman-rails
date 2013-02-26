@@ -1,6 +1,6 @@
 # Minuteman Rails
 
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/elcuervo/minuteman-rails)
+[![Code Climate](https://codeclimate.com/github/elcuervo/minuteman-rails.png)](https://codeclimate.com/github/elcuervo/minuteman-rails)
 [![Build Status](https://secure.travis-ci.org/elcuervo/minuteman-rails.png?branch=master)](https://travis-ci.org/elcuervo/minuteman-rails)
 
 Track everything in your Rails app using Minuteman
